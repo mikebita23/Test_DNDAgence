@@ -35,7 +35,6 @@ git clone https://github.com/mikebita23/Test_DNDAgence.git
     composer install (NB:Attention à la bonne version)
         Exécutez la commande console
             php bin/console products:import var/products.csv
-Vous pouvez remplacer var/sample.csvpar l'emplacement de tout fichier csv correspondant aux exigences pour l'importation du produit.
 
 Exemple de sortie
 $ bin/console products:import var/product.csv
