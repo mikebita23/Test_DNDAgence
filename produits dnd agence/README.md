@@ -28,7 +28,9 @@ Installation
 =================
 1. Pour installer mon projet, il vous faudrait premièrement faire un clone à partir de mon github
 Projet de clonage
-git clone https://github.com/dbrumann/product-importer.git
+
+git clone https://github.com/mikebita23/Test_DNDAgence.git
+
 2. Installer les dépendances
     composer install (NB:Attention à la bonne version)
         Exécutez la commande console
